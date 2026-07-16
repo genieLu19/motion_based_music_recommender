@@ -1,1 +1,27 @@
-DS_Bootcamp.Day00.ID_886510-1
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# Windows
+desktop.ini
+Thumbs.db
+
+# Временные файлы
+*.log
+*.tmp
+.DS_Store
+
+# Модели и крупные результаты — добавляй только при необходимости
+*.pth
+*.pt
+*.ckpt
