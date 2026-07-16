@@ -85,7 +85,7 @@
 
 **1. Клонировать репозиторий:**
 
-git clone https://github.com/USERNAME/motion\_based\_music\_recommender.git
+git clone https://github.com/genieLu19/motion_based_music_recommender.git
 
 cd motion\_based\_music\_recommender
 
@@ -121,6 +121,7 @@ streamlit run full\_system.py
 Проект реализует систему, описанную в выпускной квалификационной работе:
 **«Интеллектуальная система подбора музыкальных треков по ритму движения пользователя».**
 
-Полный текст дипломной работы находится в папке:
-docs/diploma.pdf
+Полный текст дипломной работы и его презентация находится в папке:
+docs/090304_22И1781_Свирская_ВА.pdf
+docs/090304_22И1781_Свирская_ВА_презентация.pptx
 
